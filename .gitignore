@@ -28,3 +28,10 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Maven build files
+target/
+
+# Intellig IDEA files
+.idea/
+*.iml
