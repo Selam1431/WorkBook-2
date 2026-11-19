@@ -19,7 +19,7 @@ public class DealershipFileManager {
 
             String[] dealershipData = line.split("\\|");
 
-            // Create a dealership using the first line
+
             Dealership dealership = new Dealership(
                     dealershipData[0],
                     dealershipData[1],
