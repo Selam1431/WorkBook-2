@@ -1,5 +1,4 @@
-package com.pluralsight;
-import java.util.ArrayList;
+package com.pluralsight.Exercise;
 import java.util.Scanner;
 import java.util.Random;
 

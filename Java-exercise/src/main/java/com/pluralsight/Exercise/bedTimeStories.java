@@ -1,4 +1,4 @@
-package com.pluralsight;
+package com.pluralsight.Exercise;
 import java.io.*;
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.pluralsight;
+package com.pluralsight.Exercise;
 
 public class Employee {
     private int employeeId;

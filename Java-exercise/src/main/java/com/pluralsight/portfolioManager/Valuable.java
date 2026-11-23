@@ -1,4 +1,4 @@
-package portfolioManager;
+package com.pluralsight.portfolioManager;
 
 import java.math.BigDecimal;
 

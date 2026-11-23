@@ -1,4 +1,4 @@
-package cellphone_service;
+package com.pluralsight.cellphone_service;
 import java.util.Scanner;
 
 
