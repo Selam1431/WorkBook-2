@@ -21,5 +21,20 @@ public class Triangle extends Shape{
     @Override
     public void paint() {
 
+        Turtle turtle = getTurtle();
+
+        turtle.penUp();
+        turtle.goTo(getLocation());
+        turtle.setColor(getColor());
+        turtle.setPenWidth(getBorder());
+        turtle.setHeading(0);
+        turtle.penDown();
+
+        for (int i = 0; i < 3; i++) {
+            turtle.forward(side);
+            turtle.turnRight(120);
+        }
+
+        turtle.penUp();
     }
 }
